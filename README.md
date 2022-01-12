@@ -26,7 +26,7 @@ This repository is simply just supplying you with some tools.
 
 ### Will this cover everything?
 
-Nope, but it should get the ball rolling and allow you to search up things yourself to further improvr and learn.
+Nope, but it should get the ball rolling and allow you to search up things yourself to further improve and learn.
 
 ### How can I support?
 
