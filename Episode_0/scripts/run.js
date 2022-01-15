@@ -14,9 +14,10 @@ const main = async () => {
   const ownerBalance = await nftContract.balanceOf(nftContract.address);
   console.log(ownerBalance);
 
-  const mintedNFT = await nftContract.mintNFT();
-
-  console.log(mintedNFT);
+  await nftContract.mintNFT();
+  await nftContract.mintNFT();
+  await nftContract.mintNFT();
+  await nftContract.mintNFT();
 };
 
 const runMain = async () => {
